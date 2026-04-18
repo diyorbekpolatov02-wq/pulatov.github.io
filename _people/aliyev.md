@@ -6,7 +6,7 @@ author_profile: true
 
 {% assign prof = site.data.professors | where: "id", "aliyev" | first %}
 
-# {{ prof.name }}
+# <a href="/people/{{ prof.id }}/"><strong>{{ prof.name }}</strong></a>
 
 ## 🧑‍🏫 Position
 {{ prof.position }}
