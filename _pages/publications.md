@@ -5,63 +5,73 @@ permalink: /publications/
 ---
 
 <style>
+.year-title {
+  font-size: 22px;
+  margin-top: 30px;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
 .pub-card {
   border-left: 4px solid #2c7be5;
   background: #f9fbfd;
   padding: 15px 20px;
-  margin-bottom: 20px;
+  margin: 15px 0;
   border-radius: 8px;
   transition: 0.3s;
 }
 
 .pub-card:hover {
   background: #eef5ff;
-  transform: translateY(-2px);
 }
 
 .pub-title {
   font-weight: 600;
-  font-size: 16px;
-  color: #1a1a1a;
 }
 
 .pub-authors {
   color: #555;
-  margin-top: 5px;
 }
 
 .pub-journal {
   font-style: italic;
   color: #2c7be5;
-  margin-top: 5px;
 }
 
-.pub-year {
-  float: right;
-  color: #888;
+.pub-links a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #007bff;
+  font-weight: 500;
 }
 </style>
 
 ## 📄 Publications
 
-{% assign pubs = site.data.publications | sort: "year" | reverse %}
+{% assign grouped = site.data.publications | group_by: "year" | sort: "name" | reverse %}
 
-{% for pub in pubs %}
-<div class="pub-card">
+{% for year in grouped %}
+  <div class="year-title">{{ year.name }}</div>
 
-  <div class="pub-year">{{ pub.year }}</div>
+  {% for pub in year.items %}
+    <div class="pub-card">
 
-  <div class="pub-title">
-    {{ pub.title }}
-  </div>
+      <div class="pub-title">{{ pub.title }}</div>
 
-  <div class="pub-authors">
-    {{ pub.authors }}
-  </div>
+      <div class="pub-authors">{{ pub.authors }}</div>
 
-  <div class="pub-journal">
-    {{ pub.journal }}
-  </div>
+      <div class="pub-journal">{{ pub.journal }}</div>
 
-</div>
+      <div class="pub-links">
+        {% if pub.pdf %}
+          <a href="{{ pub.pdf }}">📄 PDF</a>
+        {% endif %}
+        {% if pub.doi %}
+          <a href="{{ pub.doi }}">🔗 DOI</a>
+        {% endif %}
+      </div>
+
+    </div>
+  {% endfor %}
+
 {% endfor %}
