@@ -14,7 +14,7 @@ Welcome !
 
 - I was a Summer Research Fellow at the Netherlands Institute for Radio Astronomy (ASTRON) in the summer of 2018 with Dr. Pietro Zucca. I worked on Solar imaging pipeline with the Low Frequency Array.
 
----
+
 ## Research Interest
 
 - Solar Physics: Coronal mass ejections, MFM/MHD Simulations, Coronal Magnetic fields, Space Weather
