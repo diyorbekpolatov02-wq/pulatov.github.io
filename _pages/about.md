@@ -27,13 +27,18 @@ The Institute’s laboratories include specialized underground facilities design
 Bachelor’s degree programs:
 
 60531200 – Medical Physics
+
 60530700 – Astronomy
+
 Master’s degree programs:
 
 70530901 – Physics (by specialization)
+
 70530701 – Astronomy
+
 70530902 – Nuclear Physics and Nuclear Technologies (by application fields)
 Doctoral degree programs:
 
 01.04.08 – Atomic Nucleus and Elementary Particle Physics. Accelerator Technology
+
 01.03.01 – Astronomy
