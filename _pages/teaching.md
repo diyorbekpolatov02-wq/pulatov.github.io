@@ -6,8 +6,8 @@ permalink: /teaching/
 
 <style>
 .course-card {
-  border-left: 4px solid #f0ad4e;
-  background: #fffaf5;
+  border-left: 4px solid #2c7be5;
+  background: #f9fbfd;
   padding: 15px 20px;
   margin-bottom: 20px;
   border-radius: 8px;
@@ -15,7 +15,7 @@ permalink: /teaching/
 }
 
 .course-card:hover {
-  background: #fff3e6;
+  background: #eef5ff;
   transform: translateY(-2px);
 }
 
@@ -26,7 +26,7 @@ permalink: /teaching/
 
 .course-level {
   float: right;
-  color: #f0ad4e;
+  color: #2c7be5;
   font-weight: 500;
 }
 
