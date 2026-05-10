@@ -2,82 +2,29 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
 
-<style>
-.pub-card {
-  border-left: 4px solid #2c7be5;
-  background: #f9fbfd;
-  padding: 15px 20px;
-  margin-bottom: 20px;
-  border-radius: 8px;
-  transition: 0.3s;
-}
+## Journal Articles
 
-.pub-card:hover {
-  background: #eef5ff;
-  transform: translateY(-2px);
-}
+1. **D. Pulatov**, Z. Mirtoshev. Solar flare classes and Interplanetary type II bursts dependence of solar cycles 23–25. *Astronomical and Astrophysical Transactions (AApTr)* (2025)
 
-.pub-title {
-  font-weight: 600;
-  font-size: 16px;
-  color: #1a1a1a;
-}
+2. **D. Pulatov**, Z. Mirtoshev. Relationship between Forbush decrease, Geomagnetic storms and Coronal mass ejections. *Scientific Journal of SamSU* (2025)
 
-.pub-authors {
-  color: #555;
-  margin-top: 5px;
-}
+3. **D. Pulatov**, Z. Mirtoshev. Relationship of ICME composition signatures and solar cycle during 2009–2023. *Journal of Astrophysics and Astronomy* — **Submitted** (2025)
 
-.pub-journal {
-  font-style: italic;
-  color: #2c7be5;
-  margin-top: 5px;
-}
+4. **D. Pulatov**, Z. Mirtoshev, N. Srivastava, N. Gopalswamy, M. Mirkamalov, Ch. Monstein. COSPAR2024 Workshop burst: First result of CALLISTO Uzbekistan. *Journal of Advances in Space Research* — **Under preparation** (2025)
 
-.pub-year {
-  float: right;
-  color: #888;
-}
-</style>
+---
 
-## 📄 Publications
+## Conference Proceedings
 
-{% assign pubs = site.data.publications | sort: "year" | reverse %}
+1. **D. Pulatov**, Z. Mirtoshev, Sh. Sayfiev. Type II radio burst association with Coronal mass ejections. *First Conference of Physics*, Namangan State University (2025)
 
-{% for pub in pubs %}
-<div class="pub-card">
+2. **D. Pulatov**, Z. Mirtoshev. Analysis of the compositional properties of the slow solar wind during maximum and minimum cycles of solar activity. *RIAK-17 Conference*, Uzbekistan National University (2024)
 
-  <div class="pub-year">{{ pub.year }}</div>
+3. **D. Pulatov**, Z. Mirtoshev. Relationship of Geomagnetic Storm observed during the Solar activity cycle with Sunspot number. *Ali Qushchi Conference*, Samarkand State University (2023)
 
-  <div class="pub-title">
-    {% if pub.doi %}
-      <a href="{{ pub.doi }}" style="text-decoration:none; color:#1a1a1a;">
-        {{ pub.title }}
-      </a>
-    {% else %}
-      {{ pub.title }}
-    {% endif %}
-  </div>
+4. **D. Pulatov**, Z. Mirtoshev. Study of the composition signatures of Interplanetary Coronal Mass Ejections. *Actual Problems of Astronomy and Cosmogony Conference*, Uzbekistan National University (2023)
 
-  <div class="pub-authors">
-    {{ pub.authors }}
-  </div>
-
-  <div class="pub-journal">
-    {{ pub.journal }}
-  </div>
-
-  <div style="margin-top:8px;">
-  {% if pub.pdf %}
-    <a href="{{ pub.pdf }}" style="margin-right:10px; text-decoration:none; color:#2c7be5;">📄 PDF</a>
-  {% endif %}
-  
-  {% if pub.doi %}
-    <a href="{{ pub.doi }}" style="text-decoration:none; color:#2c7be5;">🔗 DOI</a>
-  {% endif %}
-</div>
-
-</div>
-{% endfor %}
+5. **D. Pulatov**, Z. Mirtoshev. Correlation of cosmic ray intensity, geomagnetic storms and coronal mass ejections. *RIAK-16 Conference*, Uzbekistan National University (2023)
