@@ -1,83 +1,21 @@
 ---
 layout: archive
-title: "Research"
+title: "Awards & Activities"
 permalink: /portfolio/
+author_profile: true
 ---
 
-## 🔬 Research Overview
+## 🏆 Key Achievements
 
-My research focuses on nuclear physics, radiation monitoring, and environmental radioactivity. I work on the development and application of modern techniques for radiation measurements, data analysis, and nuclear instrumentation.
+* **The Best Student of the 11th Cycle (2025)** - International Centre for Theoretical Physics (ICTP), Trieste, Italy.
+* **Graduated Cum Laude (110/110)** - Advanced Master in Medical Physics, University of Trieste.
+* **Master's Honors (GPA 4.77/5)** - Samarkand State University.
 
----
+## 🎓 International Conferences & Seminars
 
-## 🧪 Research Areas
-
-### ☢️ Radiation Monitoring
-- Environmental radiation measurements  
-- Gamma dose rate mapping  
-- Radon flux density studies  
-- Monitoring of nuclear power plant (NPP) sites  
-
-### 🔍 Nuclear Instrumentation
-- Gamma spectrometry (NaI(Tl), HPGe detectors)  
-- Detector calibration and efficiency analysis  
-- Development of measurement systems  
-- Laboratory equipment design and implementation  
-
-### 🌍 Environmental Radioactivity
-- Analysis of radionuclides in soil, water, and plants  
-- Assessment of natural and technogenic radioactivity  
-- Radiation safety and environmental impact studies  
-
-### 💻 Data Analysis & Simulation
-- Spectral analysis using ROOT (CERN)  
-- Data processing and visualization  
-- Reactor physics simulations (OpenMC, WIMS, REBUS)  
-- Use of modern computational tools and algorithms  
-
----
-
-## 🚀 Research Projects
-
-- **IAEA Technical Cooperation Projects**  
-  - Development of nuclear education and laboratory systems  
-  - Radiation monitoring and environmental assessment  
-
-- **NPP Radiation Monitoring Project**  
-  - Mapping gamma dose rates  
-  - Measuring radionuclide concentrations in environmental samples  
-
-- **MISTI (MIT Collaboration)**  
-  - Big data mapping and environmental monitoring  
-  - International research collaboration  
-
-- **UniCEN Project (US Embassy funded)**  
-  - Development of nuclear physics education  
-  - International academic collaboration  
-
----
-
-## 🌐 International Experience
-
-- 🇦🇹 International Atomic Energy Agency (IAEA), Vienna  
-  - In-situ gamma spectrometry  
-  - Data analysis and instrumentation  
-
-- 🇺🇸 Massachusetts Institute of Technology (MIT)  
-  - Reactor physics simulations (OpenMC, Python)  
-
-- 🇬🇧 University of Surrey, UK  
-  - Detector calibration and environmental measurements  
-
-- 🇺🇸 Argonne National Laboratory, USA  
-  - Nuclear reactor simulations and safety analysis  
-
----
-
-## 🎯 Research Interests
-
-- Radiation detection and measurement techniques  
-- Environmental radioactivity monitoring  
-- Nuclear instrumentation development  
-- Data analysis and computational physics  
-- Nuclear safety and radiation protection  
+* **School on Medical Physics for Radiation Therapy** (Trieste, Italy, 2025)
+* **Workshop on Radiation Protection in Image-Guided Radiotherapy (IGRT)** (Trieste, Italy, 2024)
+* **College on Medical Physics: Medical Imaging Physics** (Trieste, Italy, 2024)
+* **Workshop on Quantitative Imaging in Modern Nuclear Medicine** (Trieste, Italy, 2024)
+* **School of Hadron Radiotherapy** (Trieste, Italy, 2024)
+* **Physics for Modern Radiotherapy by ESTRO** (Online, 2023)
