@@ -1,65 +1,28 @@
 ---
 layout: archive
-title: "Projects"
+title: "Honours & Awards"
 permalink: /projects/
+author_profile: true
 ---
 
-<style>
-.project-card {
-  border-left: 4px solid #28a745;
-  background: #f8fff9;
-  padding: 15px 20px;
-  margin-bottom: 20px;
-  border-radius: 8px;
-  transition: 0.3s;
-}
+## 🏆 The Best Student of the 11th Cycle
+**Institution:** The Abdus Salam International Centre for Theoretical Physics (ICTP)  
+**Date:** December 13, 2025  
+**Location:** Trieste, Italy  
+[📷 View photo](https://www.flickr.com/photos/ictpimages/54985752618/in/album-72177720330939023/)
 
-.project-card:hover {
-  background: #eaffea;
-  transform: translateY(-2px);
-}
+Awarded for outstanding academic performance and research excellence during the Advanced Master in Medical Physics program at ICTP.
 
-.project-title {
-  font-weight: 600;
-  font-size: 16px;
-}
+---
 
-.project-role {
-  color: #555;
-  margin-top: 5px;
-}
+## 📋 Conferences & Seminars
 
-.project-desc {
-  margin-top: 5px;
-}
-
-.project-funding {
-  float: right;
-  color: #28a745;
-  font-weight: 500;
-}
-</style>
-
-## 🚀 Projects
-
-{% for proj in site.data.projects %}
-<div class="project-card">
-
-  <div class="project-funding">
-    {{ proj.funding }}
-  </div>
-
-  <div class="project-title">
-    {{ proj.title }}
-  </div>
-
-  <div class="project-role">
-    {{ proj.role }}
-  </div>
-
-  <div class="project-desc">
-    {{ proj.description }}
-  </div>
-
-</div>
-{% endfor %}
+| Date | Event | Location |
+|------|-------|----------|
+| Sep 8–19, 2025 | SMR 4099 — School on Medical Physics for Radiation Therapy: Dosimetry, Treatment Planning and Delivery for Advanced Applications | Trieste, Italy |
+| Nov 7–11, 2024 | SMR 3972 — Joint ICTP-IAEA Workshop on Radiation Protection in Image-Guided Radiotherapy (IGRT) | Trieste, Italy |
+| Sep 9–27, 2024 | College on Medical Physics 2024: Medical Imaging Physics | Trieste, Italy |
+| Apr 29 – May 3, 2024 | Joint ICTP-IAEA Workshop on Quantitative Imaging and Analysis Methods in Modern Nuclear Medicine | Trieste, Italy |
+| Apr 8–12, 2024 | School of Hadron Radiotherapy | Trieste, Italy |
+| May 22–26, 2023 | Physics for Modern Radiotherapy — ESTRO | Online |
+| Nov 7–11, 2022 | Joint ICTP-IAEA International School on the Physical Basis for Radionuclide Migration | Trieste, Italy |
