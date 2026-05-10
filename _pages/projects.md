@@ -1,28 +1,44 @@
 ---
 layout: archive
-title: "Honours & Awards"
+title: "Awards & Activities"
 permalink: /projects/
 author_profile: true
 ---
 
-## 🏆 The Best Student of the 11th Cycle
-**Institution:** The Abdus Salam International Centre for Theoretical Physics (ICTP)  
-**Date:** December 13, 2025  
-**Location:** Trieste, Italy  
-[📷 View photo](https://www.flickr.com/photos/ictpimages/54985752618/in/album-72177720330939023/)
+## 🏆 Fellowships & Awards
 
-Awarded for outstanding academic performance and research excellence during the Advanced Master in Medical Physics program at ICTP.
+### COSPAR Capacity Building Workshop Fellowship
+**Institution:** Udaipur Solar Observatory, Physical Research Laboratory, India
+**Period:** September 20 – November 1, 2025
+**Supervisor:** Professor Nandita Srivastava
+**Topic:** The relationship between CME/ICME and their impact on space weather
+
+Competitive international fellowship awarded by COSPAR (Committee on Space Research) for early-career researchers in space science.
 
 ---
 
-## 📋 Conferences & Seminars
+### Winner — 2nd Place, Republican Science Olympiad in Physics
+**Institution:** Ministry of Higher Education, Science and Innovation, Republic of Uzbekistan
+**Date:** June 15–16, 2023
+
+---
+
+## 📋 Schools & Workshops
 
 | Date | Event | Location |
 |------|-------|----------|
-| Sep 8–19, 2025 | SMR 4099 — School on Medical Physics for Radiation Therapy: Dosimetry, Treatment Planning and Delivery for Advanced Applications | Trieste, Italy |
-| Nov 7–11, 2024 | SMR 3972 — Joint ICTP-IAEA Workshop on Radiation Protection in Image-Guided Radiotherapy (IGRT) | Trieste, Italy |
-| Sep 9–27, 2024 | College on Medical Physics 2024: Medical Imaging Physics | Trieste, Italy |
-| Apr 29 – May 3, 2024 | Joint ICTP-IAEA Workshop on Quantitative Imaging and Analysis Methods in Modern Nuclear Medicine | Trieste, Italy |
-| Apr 8–12, 2024 | School of Hadron Radiotherapy | Trieste, Italy |
-| May 22–26, 2023 | Physics for Modern Radiotherapy — ESTRO | Online |
-| Nov 7–11, 2022 | Joint ICTP-IAEA International School on the Physical Basis for Radionuclide Migration | Trieste, Italy |
+| Nov 11–22, 2024 | São Paulo School of Advanced Science on Solar Activity and Space Weather | São Paulo, Brazil |
+| Aug 19–30, 2024 | COSPAR Capacity Building Workshop | Samarkand, Uzbekistan |
+| Feb 28 – May 15, 2024 | Sustainable Development and Sustainability Science — Uppsala University | Online |
+| Apr 15–17, 2024 | 13th Scientific Practical Forum — Ulughbek Astronomical Institute | Tashkent, Uzbekistan |
+| Sep 5, 2023 | Grant information on Clarivate resources — Clarivate online seminar | Online |
+| Apr 11–15, 2022 | 11th Scientific Practical Forum — Ulughbek Astronomical Institute | Tashkent, Uzbekistan |
+
+---
+
+## 📜 Certifications
+
+- **Python** — Kaggle Python Online Course *(Apr 2024)*
+- **Sustainable Development and Sustainability Science** — Uppsala University *(2024)*
+  Lecture topic: *Impact of Solar Activity on Climate Change*
+- **Grant information on Clarivate resources** — Clarivate *(2023)*
