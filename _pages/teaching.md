@@ -2,56 +2,44 @@
 layout: archive
 title: "Teaching"
 permalink: /teaching/
+author_profile: true
 ---
 
-<style>
-.course-card {
-  border-left: 4px solid #2c7be5;
-  background: #f9fbfd;
-  padding: 15px 20px;
-  margin-bottom: 20px;
-  border-radius: 8px;
-  transition: 0.3s;
-}
+## 👨‍🏫 Teaching & Academic Activities
 
-.course-card:hover {
-  background: #eef5ff;
-  transform: translateY(-2px);
-}
+I am currently a Laboratory Assistant at the Department of Nuclear Physics and Astronomy, Samarkand State University, where I support undergraduate teaching activities in physics and astronomy.
 
-.course-title {
-  font-weight: 600;
-  font-size: 16px;
-}
+---
 
-.course-level {
-  float: right;
-  color: #2c7be5;
-  font-weight: 500;
-}
+## 🔬 Laboratory Support
 
-.course-desc {
-  margin-top: 5px;
-  color: #555;
-}
-</style>
+As a Laboratory Assistant, I assist with:
 
-## 🎓 Teaching
+- **Physics laboratory sessions** — supporting undergraduate students in experimental work
+- **Astronomy data analysis** — introducing students to solar data tools (SunPy, AstroPy)
+- **Research methodology** — guiding junior students in scientific writing and data interpretation
 
-{% for course in site.data.teaching %}
-<div class="course-card">
+---
 
-  <div class="course-level">
-    {{ course.level }}
-  </div>
+## 🎓 Academic Background
 
-  <div class="course-title">
-    {{ course.course }}
-  </div>
+My teaching activities are grounded in my research and academic training:
 
-  <div class="course-desc">
-    {{ course.description }}
-  </div>
+- MSc in Astronomy (2023–2025) — Solar physics, space weather, data analysis
+- BSc in Physics and Astronomy (2019–2023) — Classical and modern physics, observational astronomy
 
-</div>
-{% endfor %}
+---
+
+## 📊 Skills I Share with Students
+
+- Python for scientific computing (AstroPy, SunPy, NumPy, Matplotlib)
+- Solar and space physics data analysis
+- Scientific visualization with Jupyter Notebook and OriginLab
+- Literature review and academic writing
+
+---
+
+## 📬 Contact for Students
+
+Students interested in solar physics, space weather, or data analysis projects are welcome to reach out:
+[diyorbekpolatov2002@gmail.com](mailto:diyorbekpolatov2002@gmail.com)
