@@ -11,88 +11,83 @@ redirect_from:
 
 ## Education
 
-* **Advanced Master in Medical Physics** (110/110 Cum Laude)  
-  The Abdus Salam International Centre for Theoretical Physics (ICTP) & University of Trieste, Italy  
-  *Jan 2024 – Dec 2025*  
-  Thesis: *Intercomparison, validation, and implementation of tools for in-vivo dosimetry*
+* **MSc. in Astronomy**
+  Samarkand State University named after Sh. Rashidov, Uzbekistan
+  *Sep 2023 – July 2025*
+  Thesis: *Study of Compositional signatures of Interplanetary Coronal Mass Ejections (ICMEs) during Solar activity cycles*
 
-* **Training in Hospital — Clinical Medical Physics**  
-  IRCCS Azienda Ospedaliero-Universitaria di Bologna (Policlinico di Sant'Orsola), Italy  
-  *Jan 2025 – Dec 2025*  
-  Thesis: *Implementation, validation, and intercomparison of tools for in-vivo dosimetry*
-
-* **Scientific Visit — Dosimetry**  
-  International Atomic Energy Agency (IAEA), Dosimetry Laboratory (SSDL), Seibersdorf, Austria  
-  *Aug 2024*
-
-* **Training and Research (Hungaricum Scholarship)**  
-  Budapest University of Technology and Economics & HUN-REN Centre for Energy Research, Hungary  
-  *Aug 2023 – Feb 2024*  
-  Thesis: *Application of Monte Carlo Simulation for Internal Dose Assessment*
-
-* **Master's Degree in Nuclear Physics and Astronomy** (GPA: 4.77/5)  
-  Samarkand State University, Uzbekistan  
-  *Sep 2020 – Jun 2022*  
-  Thesis: *Application and effectiveness of proton therapy in onconeosurgery*
-
-* **Bachelor's Degree in Physics** (GPA: 4.2/5)  
-  Samarkand State University, Uzbekistan  
-  *Sep 2016 – Jun 2020*
+* **BSc. in Physics and Astronomy**
+  Samarkand State University named after Sh. Rashidov, Uzbekistan
+  *Sep 2019 – June 2023*
 
 ---
 
 ## Work Experience
 
-* **Researcher** — Engineering Physics Institute, Samarkand State University  
-  *Jan 2026 – Present* | Samarkand, Uzbekistan  
-  - Preparing reports on radioactive analysis of water, soil, construction materials, and air
-  - Installation and calibration of radiation detectors
-  - Responsible for the establishment of the new Master's program in Medical Physics
+* **Laboratory Assistant** — Department of Nuclear Physics and Astronomy, Samarkand State University
+  *Sep 2024 – Present* | Samarkand, Uzbekistan
 
-* **Junior Researcher** — Nuclear Physics Laboratory, Samarkand State University  
-  *Sep 2022 – Sep 2023* | Samarkand, Uzbekistan  
-  - Calibration of NaI(Tl) and HPGe detectors and their verification
-  - Passive measurements of Rn-222 in air using activated charcoal sorption columns
-  - Monte Carlo simulation with Geant4 and Python data analysis
+* **Researcher** — Joint Research Project Indo-Uzbek-2021-95
+  *Jan 2022 – Dec 2023*
+  Project: *Space weather consequences of Coronal Mass Ejections (CMEs)*
 
-* **Physics Teacher** — Public School № 31  
-  *Sep 2019 – Feb 2022* | Samarkand, Uzbekistan
+* **Librarian** — Samarkand State University Library
+  *Mar 2022 – June 2022* | Samarkand, Uzbekistan
+
+---
+
+## Fellowships & Awards
+
+* **COSPAR Capacity Building Workshop Fellowship**
+  Udaipur Solar Observatory, Physical Research Laboratory, India
+  *Sep 20 – Nov 1, 2025*
+  Supervisor: Professor Nandita Srivastava
+  Topic: *The relationship between CME/ICME and their impact on space weather*
+
+* **Winner of 2nd Place — Republican Science Olympiad in Physics**
+  Ministry of Higher Education, Science and Innovation of the Republic of Uzbekistan
+  *June 15–16, 2023*
+
+---
+
+## Certifications & Training
+
+* **São Paulo School of Advanced Science on Solar Activity and Space Weather**
+  São Paulo, Brazil | *Nov 11–22, 2024*
+
+* **COSPAR Capacity Building Workshop** (Alumni)
+  Samarkand, Uzbekistan | *Aug 19–30, 2024*
+
+* **Sustainable Development and Sustainability Science**
+  Swedish Aral Sea Society, Uppsala University
+  *Feb 28 – May 15, 2024*
+  Lecture: *Impact of Solar Activity on Climate Change*
+
+* **Python** — Kaggle Python Online Course | *Apr 19, 2024*
+
+* **"Grant information on Clarivate resources"**
+  Certificate of participation, Clarivate online seminar | *Sep 5, 2023*
+
+* **13th Scientific Practical Forum**
+  Academy of Sciences of Uzbekistan, Ulughbek Astronomical Institute
+  *Apr 15–17, 2024* | Lecture: *Compositional signatures of ICMEs*
+
+* **11th Scientific Practical Forum**
+  Academy of Sciences of Uzbekistan, Ulughbek Astronomical Institute
+  *Apr 11–15, 2022*
 
 ---
 
 ## Skills
 
-**Programming:** Python, C++, Linux  
-**Simulation:** Monte Carlo with Geant4 and GATE  
-**Python Libraries:** NumPy, Pandas, Seaborn, Matplotlib  
-**Medical Physics Software:** ImageJ, Pinnacle TPS, Mosaiq R&V  
-**Dosimetry:** MOSFET, GafChromic film, HPGe, ionization chambers, TLD, OSLD, RPLD  
-**QA Systems:** LINAC (ELEKTA), Brachytherapy, SPECT, PET, CT, MRI  
-**Dosimetry Software:** Sun Nuclear PerFRACTION, Dosisoft EPIgray Edition 2.0
-
----
-
-## Languages
-
-| Language | Level |
-|----------|-------|
-| Uzbek | Native |
-| English | Advanced (IELTS Band Score 7) |
-| Russian | Pre-Intermediate |
-| Italian | Beginner |
+**Programming:** Python (AstroPy, SunPy, NumPy, Matplotlib), IDL, OriginLab
+**Data Tools:** Excel, Jupyter Notebook, data visualization
+**Languages:** Uzbek (Native), English (B2), Russian (A2)
 
 ---
 
 ## Publications
 
 {% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-
----
-
-## Teaching
-
-{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
