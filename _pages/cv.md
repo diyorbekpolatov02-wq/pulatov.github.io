@@ -1,133 +1,98 @@
 ---
-layout: single
-title: "Curriculum Vitae"
+layout: archive
+title: "CV"
 permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
-<style>
-.cv-section {
-  margin-top: 30px;
-}
+{% include base_path %}
 
-.cv-title {
-  font-size: 22px;
-  border-bottom: 2px solid #ddd;
-  padding-bottom: 5px;
-}
+## Education
 
-.cv-item {
-  margin-top: 15px;
-}
+* **Advanced Master in Medical Physics** (110/110 Cum Laude)  
+  The Abdus Salam International Centre for Theoretical Physics (ICTP) & University of Trieste, Italy  
+  *Jan 2024 – Dec 2025*  
+  Thesis: *Intercomparison, validation, and implementation of tools for in-vivo dosimetry*
 
-.cv-role {
-  font-weight: 600;
-}
+* **Training in Hospital — Clinical Medical Physics**  
+  IRCCS Azienda Ospedaliero-Universitaria di Bologna (Policlinico di Sant'Orsola), Italy  
+  *Jan 2025 – Dec 2025*  
+  Thesis: *Implementation, validation, and intercomparison of tools for in-vivo dosimetry*
 
-.cv-place {
-  color: #2c7be5;
-}
+* **Scientific Visit — Dosimetry**  
+  International Atomic Energy Agency (IAEA), Dosimetry Laboratory (SSDL), Seibersdorf, Austria  
+  *Aug 2024*
 
-.cv-period {
-  float: right;
-  color: #888;
-}
+* **Training and Research (Hungaricum Scholarship)**  
+  Budapest University of Technology and Economics & HUN-REN Centre for Energy Research, Hungary  
+  *Aug 2023 – Feb 2024*  
+  Thesis: *Application of Monte Carlo Simulation for Internal Dose Assessment*
 
-.cv-desc {
-  margin-top: 5px;
-}
-</style>
+* **Master's Degree in Nuclear Physics and Astronomy** (GPA: 4.77/5)  
+  Samarkand State University, Uzbekistan  
+  *Sep 2020 – Jun 2022*  
+  Thesis: *Application and effectiveness of proton therapy in onconeosurgery*
 
-## 📄 Curriculum Vitae
-
-👉 <a href="/files/Akmal_Safarov_resume.pdf" style="color:#2c7be5; font-weight:600;">⬇ Download Full CV (PDF)</a>
+* **Bachelor's Degree in Physics** (GPA: 4.2/5)  
+  Samarkand State University, Uzbekistan  
+  *Sep 2016 – Jun 2020*
 
 ---
 
-<div class="cv-section">
-<div class="cv-title">💼 Professional Experience</div>
+## Work Experience
 
-<div class="cv-item">
-<span class="cv-role">Associate Professor</span>
-<span class="cv-period">2019 – Present</span><br>
-<span class="cv-place">Samarkand State University</span>
-<div class="cv-desc">
-Teaching, project management, and nuclear laboratory development.
-</div>
-</div>
+* **Researcher** — Engineering Physics Institute, Samarkand State University  
+  *Jan 2026 – Present* | Samarkand, Uzbekistan  
+  - Preparing reports on radioactive analysis of water, soil, construction materials, and air
+  - Installation and calibration of radiation detectors
+  - Responsible for the establishment of the new Master's program in Medical Physics
 
-<div class="cv-item">
-<span class="cv-role">Visiting Scholar</span>
-<span class="cv-period">2022</span><br>
-<span class="cv-place">MIT, USA</span>
-<div class="cv-desc">
-Worked on reactor physics simulations using Python and OpenMC.
-</div>
-</div>
+* **Junior Researcher** — Nuclear Physics Laboratory, Samarkand State University  
+  *Sep 2022 – Sep 2023* | Samarkand, Uzbekistan  
+  - Calibration of NaI(Tl) and HPGe detectors and their verification
+  - Passive measurements of Rn-222 in air using activated charcoal sorption columns
+  - Monte Carlo simulation with Geant4 and Python data analysis
 
-<div class="cv-item">
-<span class="cv-role">Research Fellow</span>
-<span class="cv-period">2015 – 2016</span><br>
-<span class="cv-place">IAEA, Vienna</span>
-<div class="cv-desc">
-Gamma spectrometry and radiation data analysis.
-</div>
-</div>
-
-</div>
+* **Physics Teacher** — Public School № 31  
+  *Sep 2019 – Feb 2022* | Samarkand, Uzbekistan
 
 ---
 
-<div class="cv-section">
-<div class="cv-title">🎓 Education</div>
+## Skills
 
-<div class="cv-item">
-PhD in Nuclear Physics — Institute of Nuclear Physics (2021)
-</div>
-
-<div class="cv-item">
-MSc in Nuclear Physics — Samarkand State University (2009)
-</div>
-
-<div class="cv-item">
-BSc in Physics — Samarkand State University (2007)
-</div>
-
-</div>
+**Programming:** Python, C++, Linux  
+**Simulation:** Monte Carlo with Geant4 and GATE  
+**Python Libraries:** NumPy, Pandas, Seaborn, Matplotlib  
+**Medical Physics Software:** ImageJ, Pinnacle TPS, Mosaiq R&V  
+**Dosimetry:** MOSFET, GafChromic film, HPGe, ionization chambers, TLD, OSLD, RPLD  
+**QA Systems:** LINAC (ELEKTA), Brachytherapy, SPECT, PET, CT, MRI  
+**Dosimetry Software:** Sun Nuclear PerFRACTION, Dosisoft EPIgray Edition 2.0
 
 ---
 
-<div class="cv-section">
-<div class="cv-title">🔬 Research Interests</div>
+## Languages
 
-- Radiation monitoring  
-- Nuclear instrumentation  
-- Environmental radioactivity  
-- Data analysis and simulations  
-
-</div>
-
----
-
-<div class="cv-section">
-<div class="cv-title">🛠 Skills</div>
-
-- Programming: C++, Python  
-- Data Analysis: ROOT, Origin  
-- Mapping: QGIS, Google Earth  
-- Software: MATLAB, Mathematica  
-- Systems: Linux, Windows  
-
-</div>
+| Language | Level |
+|----------|-------|
+| Uzbek | Native |
+| English | Advanced (IELTS Band Score 7) |
+| Russian | Pre-Intermediate |
+| Italian | Beginner |
 
 ---
 
-<div class="cv-section">
-<div class="cv-title">🌍 Languages</div>
+## Publications
 
-- English  
-- Russian  
-- Uzbek  
-- Tajik  
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
 
-</div>
+---
+
+## Teaching
+
+{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
