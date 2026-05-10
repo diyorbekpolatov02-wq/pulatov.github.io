@@ -4,20 +4,17 @@ title: "About me"
 permalink: /
 author_profile: true
 ---
+
 Welcome!
 
-I am a nuclear physicist and researcher specializing in radiation monitoring, nuclear instrumentation, and environmental radioactivity. Currently, I serve as an Associate Professor at Samarkand State University, where I am actively involved in teaching, scientific research, and the development of laboratory infrastructure.
+[cite_start]I am a medical physicist and researcher specializing in dosimetry, Monte Carlo simulations, and radiotherapy[cite: 5, 56]. [cite_start]Currently, I serve as a Researcher at the Engineering Physics Institute of Samarkand State University, where I am responsible for establishing the new Master’s program in Medical Physics and conducting radioactive analysis of environmental materials[cite: 56, 57, 59].
 
-My research focuses on radiation measurements, gamma spectroscopy, and environmental monitoring of radionuclides. I have extensive experience in analyzing radiation data, conducting field measurements, and developing methodologies for radiation safety and nuclear applications.
+[cite_start]My research focuses on the application of artificial intelligence and computational modeling in particle therapy and medical imaging[cite: 5]. [cite_start]I have extensive experience in the calibration and clinical use of various dosimeters (MOSFET, GafChromic film, HPGe, and ionization chambers), quality control of LINAC and Brachytherapy systems, and radiation protection shielding calculations[cite: 10, 11, 13].
 
-I obtained my PhD in Nuclear Physics from the Institute of Nuclear Physics (Uzbekistan) in 2021, following my Master’s and Bachelor’s degrees in Physics from Samarkand State University.
+[cite_start]I obtained my Advanced Master’s degree in Medical Physics (110/110 Cum Laude) from the Abdus Salam International Centre for Theoretical Physics (ICTP) and the University of Trieste (Italy) in 2025[cite: 27, 33]. [cite_start]Prior to this, I completed my Master’s and Bachelor’s degrees in Physics at Samarkand State University[cite: 43, 50].
 
-Over the years, I have participated in several international research programs and collaborations. I was a research fellow at the International Atomic Energy Agency (IAEA) in Vienna, where I worked on in-situ gamma spectrometry and data analysis. I also conducted research at the University of Surrey (UK) and Argonne National Laboratory (USA), focusing on detector calibration, nuclear reactor simulations, and radiation measurements.
+Throughout my academic career, I have participated in several high-level international training programs. [cite_start]I completed clinical training at the IRCCS Azienda Ospedaliero-Universitaria di Bologna (Italy), focusing on in-vivo dosimetry and treatment planning[cite: 9, 12, 17]. [cite_start]I also conducted scientific visits and research at the International Atomic Energy Agency (IAEA) Dosimetry Laboratory in Austria and the Budapest University of Technology and Economics in Hungary, specializing in Monte Carlo simulations using Geant4 and GATE[cite: 18, 19, 36, 38].
 
-In addition, I was a visiting scholar at the Massachusetts Institute of Technology (MIT), contributing to the development of computational tools for reactor physics using Python and OpenMC.
+[cite_start]My work has been recognized with honors, including being named "The Best Student of the 11th Cycle" at the International Centre for Theoretical Physics (ICTP) in 2025[cite: 104].
 
-I have led and contributed to multiple international and national projects, including IAEA technical cooperation programs and research initiatives funded by international organizations. My work includes designing laboratory systems, developing educational programs, and implementing modern technologies in nuclear science education.
-
-I am the author of numerous scientific publications in international peer-reviewed journals and conference proceedings. My research interests also extend to data analysis, simulation, and the application of modern computational techniques in nuclear science.
-
-
+[cite_start]I am the author and co-author of several scientific manuscripts submitted to international journals, covering topics such as Proton Therapy, PET/CT Dosimetry, and AI-based image reconstruction[cite: 74, 77, 79, 83]. [cite_start]My technical skills include proficiency in Python, C++, Linux, and specialized medical physics software such as ImageJ, Pinnacle TPS, and Mosaiq[cite: 70, 71].
