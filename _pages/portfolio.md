@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Research Interests"
-permalink: /
+permalink: /portfolio/
 author_profile: true
 ---
 
