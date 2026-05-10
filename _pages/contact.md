@@ -14,7 +14,7 @@ I am open to scientific discussions, collaboration opportunities, and academic i
 ## 📧 Email
 
 - **Personal:** [diyorbekpolatov2002@gmail.com](mailto:diyorbekpolatov2002@gmail.com)
-- **Institutional:** [pulatovdiyorbek@samdu.uz](mailto:pulatovdiyorbek@samdu.uz)
+- **Institutional:** [pulatovdiyorbek@samdu.uz](mailto:diyorbekpulatov@samdu.uz)
 
 ---
 
