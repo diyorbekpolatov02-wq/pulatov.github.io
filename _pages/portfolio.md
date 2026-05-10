@@ -1,21 +1,24 @@
 ---
-layout: archive
-title: "Awards & Activities"
-permalink: /portfolio/
+layout: single
+title: "Research Interests"
+permalink: /
 author_profile: true
 ---
 
-## 🏆 Key Achievements
+I am a medical physicist and researcher focusing on the intersection of radiation physics and computational modeling. Currently, I serve as a Researcher at the Engineering Physics Institute of Samarkand State University, where I am leading the initiative to establish a new Master’s program in Medical Physics.
 
-* **The Best Student of the 11th Cycle (2025)** - International Centre for Theoretical Physics (ICTP), Trieste, Italy.
-* **Graduated Cum Laude (110/110)** - Advanced Master in Medical Physics, University of Trieste.
-* **Master's Honors (GPA 4.77/5)** - Samarkand State University.
+### Primary Research Focus
+* **Dosimetry & Particle Therapy**: Applying Monte Carlo methods and artificial intelligence to enhance precision in radiation dosimetry and particle therapy.
+* **Radiation Protection**: Expert in performing professional shielding calculations for radiotherapy bunkers and diagnostic rooms, including their clinical verification.
+* **Medical Imaging Quality Control**: Extensive experience in acceptance testing and quality control for SPECT, PET, CT, and MRI systems.
+* **Environmental Radioactivity**: Conducting radioactive analysis for environmental materials, including water, soil, construction materials, and air.
 
-## 🎓 International Conferences & Seminars
+### Technical Expertise
+* **Monte Carlo Simulations**: Proficient in Geant4 and GATE for numerical phantoms and detector configurations.
+* **Programming & Data Analysis**: Advanced skills in Python (Numpy, Pandas, Matplotlib) and C++.
+* **Clinical Instrumentation**: Practical expertise in the calibration and clinical use of MOSFET, GafChromic film, HPGe, and ionization chambers.
+* **Radiotherapy Systems**: Hands-on experience with LINAC (Elekta), Brachytherapy systems, and treatment planning software such as Pinnacle TPS and Mosaiq.
 
-* **School on Medical Physics for Radiation Therapy** (Trieste, Italy, 2025)
-* **Workshop on Radiation Protection in Image-Guided Radiotherapy (IGRT)** (Trieste, Italy, 2024)
-* **College on Medical Physics: Medical Imaging Physics** (Trieste, Italy, 2024)
-* **Workshop on Quantitative Imaging in Modern Nuclear Medicine** (Trieste, Italy, 2024)
-* **School of Hadron Radiotherapy** (Trieste, Italy, 2024)
-* **Physics for Modern Radiotherapy by ESTRO** (Online, 2023)
+### Academic Background
+* **Advanced Master in Medical Physics** (110/110 Cum Laude) – ICTP & University of Trieste, Italy.
+* **Master of Science in Nuclear Physics** (GPA 4.77/5) – Samarkand State University.
