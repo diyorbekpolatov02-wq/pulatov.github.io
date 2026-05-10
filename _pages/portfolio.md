@@ -1,24 +1,64 @@
 ---
-layout: single
-title: "Research Interests"
+layout: archive
+title: "Research"
 permalink: /portfolio/
 author_profile: true
 ---
 
-I am a medical physicist and researcher focusing on the intersection of radiation physics and computational modeling. Currently, I serve as a Researcher at the Engineering Physics Institute of Samarkand State University, where I am leading the initiative to establish a new Master’s program in Medical Physics.
+## 🔭 Research Overview
 
-### Primary Research Focus
-* **Dosimetry & Particle Therapy**: Applying Monte Carlo methods and artificial intelligence to enhance precision in radiation dosimetry and particle therapy.
-* **Radiation Protection**: Expert in performing professional shielding calculations for radiotherapy bunkers and diagnostic rooms, including their clinical verification.
-* **Medical Imaging Quality Control**: Extensive experience in acceptance testing and quality control for SPECT, PET, CT, and MRI systems.
-* **Environmental Radioactivity**: Conducting radioactive analysis for environmental materials, including water, soil, construction materials, and air.
+My research is centered on solar physics and space weather, with a focus on understanding the origin, propagation, and geophysical impact of Coronal Mass Ejections (CMEs) and their interplanetary counterparts (ICMEs). I combine observational data analysis, statistical methods, and computational tools to study the Sun–Earth connection.
 
-### Technical Expertise
-* **Monte Carlo Simulations**: Proficient in Geant4 and GATE for numerical phantoms and detector configurations.
-* **Programming & Data Analysis**: Advanced skills in Python (Numpy, Pandas, Matplotlib) and C++.
-* **Clinical Instrumentation**: Practical expertise in the calibration and clinical use of MOSFET, GafChromic film, HPGe, and ionization chambers.
-* **Radiotherapy Systems**: Hands-on experience with LINAC (Elekta), Brachytherapy systems, and treatment planning software such as Pinnacle TPS and Mosaiq.
+---
 
-### Academic Background
-* **Advanced Master in Medical Physics** (110/110 Cum Laude) – ICTP & University of Trieste, Italy.
-* **Master of Science in Nuclear Physics** (GPA 4.77/5) – Samarkand State University.
+## ☀️ Coronal Mass Ejections & Space Weather
+
+CMEs are among the most energetic events in the solar system and primary drivers of space weather:
+
+- Compositional signatures of ICMEs across solar activity cycles (2009–2023)
+- Relationship between CME/ICME properties and geomagnetic storm intensity
+- Correlation of Forbush decreases in cosmic ray intensity with CMEs and geomagnetic storms
+- CME kinematic properties and their dependence on solar cycle phase
+
+**MSc Thesis:** *Study of Compositional Signatures of Interplanetary Coronal Mass Ejections (ICMEs) during Solar Activity Cycles* (Samarkand State University, 2025)
+
+---
+
+## 📡 Solar Radio Bursts
+
+Radio bursts are important diagnostics of energetic particle acceleration and shock propagation in the corona:
+
+- Type II radio burst association with coronal mass ejections
+- Solar flare class dependence on interplanetary Type II bursts across solar cycles 23–25
+- First results of the CALLISTO Uzbekistan radio spectrometer (COSPAR2024 collaboration)
+
+**International collaboration:** COSPAR2024 CALLISTO network (with N. Srivastava, N. Gopalswamy, Ch. Monstein)
+
+---
+
+## 🌌 Solar Wind & Cosmic Rays
+
+- Compositional properties of the slow solar wind during solar maximum and minimum
+- Solar wind mass-loss rate and open solar magnetic flux (Solar Cycles 23–25)
+- Forbush decrease events: statistical analysis and CME association
+
+---
+
+## 🛰️ International Projects & Collaborations
+
+| Project | Role | Period |
+|---------|------|--------|
+| Indo-Uzbek-2021-95 — Space weather consequences of CMEs | Researcher | 2022–2023 |
+| COSPAR Capacity Building Workshop Fellowship — Udaipur Solar Observatory | Fellow | 2025 |
+| COSPAR2024 CALLISTO Uzbekistan | Collaborator | 2024–2025 |
+| São Paulo School on Solar Activity and Space Weather | Participant | 2024 |
+
+---
+
+## 💻 Computational Tools & Methods
+
+- **Python:** AstroPy, SunPy, NumPy, Matplotlib for solar data analysis
+- **IDL:** Solar image processing and spectral analysis
+- **OriginLab:** Data visualization and statistical analysis
+- **Jupyter Notebook:** Interactive research workflows
+- **Data sources:** SOHO, ACE, Wind, SDO, STEREO spacecraft data
